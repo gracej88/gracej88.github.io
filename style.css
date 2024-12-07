@@ -1,0 +1,28 @@
+.nav-link {
+  cursor: pointer;
+}
+.main {
+  background-image: url(background3.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  font-size: 40px;
+}
+
+.btn-group {
+  width: 100px;
+  position: relative;
+}
+#Education {
+  background-image: url(background5.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+#Experience {
+  background-image: url(background5.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
